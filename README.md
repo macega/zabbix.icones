@@ -37,14 +37,26 @@ OBS: Algumas imagens tem livre licença de uso, outras são proprietárias.
 no ubuntu e posivel criar o arquivo de importaçao com o comanda a baixa 
 
 sudo sh ../png_to_xml.sh diversosv1 diversosv1.xml
+
 sudo sh ../png_to_xml.sh diversosv2 diversosv2.xml
+
 sudo sh ../png_to_xml.sh diversosv3 diversosv3.xml
+
 sudo sh ../png_to_xml.sh equipamentos equipamentos.xml
+
 sudo sh ../png_to_xml.sh geometria geometria.xml
+
 sudo sh ../png_to_xml.sh legendas legendas.xml
+
 sudo sh ../png_to_xml.sh pixel pixel.xml
+
 sudo sh ../png_to_xml.sh proprietario proprietario.xml
+
 sudo sh ../png_to_xml.sh rack rack.xml
+
 sudo sh ../png_to_xml.sh screenshots screenshots.xml
+
 sudo sh ../png_to_xml.sh virtualizacao virtualizacao.xml
+
 sudo sh ../png_to_xml.sh zabbix zabbix.xml
+
